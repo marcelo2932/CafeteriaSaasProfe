@@ -1,0 +1,15 @@
+{
+  "name": "cafetimebootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "sass --watch src/scss:build/css"
+  },
+  "author": "Miguel Ramos",
+  "license": "MIT",
+  "devDependencies": {
+    "bootstrap": "^5.1.3",
+    "sass": "^1.45.0"
+  }
+}
